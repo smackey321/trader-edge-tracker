@@ -1,5 +1,5 @@
 # Trader Edge Tracker
-
+https://smackey321.github.io/trader-edge-tracker/
 An offline trading journal in a single HTML file. No install, no account, no
 internet connection, no server. Download one file, open it in your browser, and
 everything you log stays on your own machine.
